@@ -1,0 +1,15 @@
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\bin\Debug\DailyCheckbox.exe.config
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\bin\Debug\DailyCheckbox.exe
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\bin\Debug\DailyCheckbox.pdb
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox.csproj.AssemblyReference.cache
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\MainWindow.g.cs
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\App.g.cs
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox_MarkupCompile.cache
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox_MarkupCompile.lref
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\MainWindow.baml
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox.g.resources
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox.Properties.Resources.resources
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox.csproj.GenerateResource.cache
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox.csproj.CoreCompileInputs.cache
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox.exe
+C:\Users\Imir\source\repos\MyOwnProjects\DailyCheckbox\obj\Debug\DailyCheckbox.pdb
