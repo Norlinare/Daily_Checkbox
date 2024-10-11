@@ -6,38 +6,43 @@
         xmlns:local="clr-namespace:DailyCheckbox"
         mc:Ignorable="d"
         Title="MainWindow" Height="1080" Width="1920" ResizeMode="NoResize" WindowStyle="SingleBorderWindow" WindowState="Maximized">
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="30"/>
-            <ColumnDefinition Width="700"/>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="30"/>
-        </Grid.ColumnDefinitions>
 
-        <Grid.RowDefinitions>
-            <!--16 st rows-->
-            <RowDefinition Height="30"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="60"/>
-            <RowDefinition Height="30"/>
-        </Grid.RowDefinitions>
+    <TabControl x:Name="tabMainWindow" TabStripPlacement="Top">
+        <TabItem Name="tabDailyChecklist" Header="Daily Done Checklist">
+            <Grid x:Name="DailyCheckboxGrid">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="30"/>
+                    <ColumnDefinition Width="700"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="30"/>
+                </Grid.ColumnDefinitions>
 
-        <CheckBox Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Margin="10 0" FontSize="15"/>
+                <Grid.RowDefinitions>
+                    <!--16 st rows-->
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="30"/>
+                </Grid.RowDefinitions>
+            </Grid>
+        </TabItem>
+        <TabItem Name="tabTemporary" Header="To be decided">
 
+        </TabItem>
+    </TabControl>
 
-    </Grid>
 </Window>
